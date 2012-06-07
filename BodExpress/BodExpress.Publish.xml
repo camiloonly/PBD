@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Inetpub\wwwroot\Bodexpress" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="localhost/BodExpress" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Perfil1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="06/07/2012 16:03:22" />
+    <file relUrl="Site.Master" publishTime="06/07/2012 15:09:32" />
+    <file relUrl="Account/Web.config" publishTime="06/07/2012 15:19:35" />
+    <file relUrl="Account/Register.aspx" publishTime="06/07/2012 15:09:32" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="06/07/2012 15:09:32" />
+    <file relUrl="Account/Login.aspx" publishTime="06/07/2012 15:09:32" />
+    <file relUrl="Styles/Site.css" publishTime="06/07/2012 15:09:32" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="06/07/2012 15:09:32" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="06/07/2012 15:09:32" />
+    <file relUrl="bin/BodExpress.dll" publishTime="06/07/2012 15:53:26" />
+    <file relUrl="bin/BodExpress.pdb" publishTime="06/07/2012 15:53:26" />
+    <file relUrl="Global.asax" publishTime="06/07/2012 15:09:32" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="06/07/2012 15:09:32" />
+    <file relUrl="About.aspx" publishTime="06/07/2012 15:09:32" />
+    <file relUrl="Default.aspx" publishTime="06/07/2012 15:53:23" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="06/07/2012 15:09:32" />
+  </publishProfile>
+</publishData>
